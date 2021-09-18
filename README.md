@@ -1,4 +1,13 @@
 ### Hi there 👋
+#### If you havent heard about me yet, thats no problem!
+#### I am a german dude who likes coding in Java (MC Plugins only tho) and C#
+#### If you like to hear more from me, look at my Socials:
+
+https://youtube.com/NotJansel
+
+https://twitter.com/NotJansel
+
+https://twitch.tv/NotJansel
 
 <!--
 **NotJansel/NotJansel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
