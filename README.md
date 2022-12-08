@@ -9,7 +9,9 @@ https://twitter.com/NotJansel
 
 https://twitch.tv/NotJansel
 
+### Important work I have done
+- [Allium](https://github.com/HyacinthBots/Allium)
+- [Palladium](https://github.com/NotJansel/Palladium)
+
 
 [![why](https://github-readme-stats.vercel.app/api?username=NotJansel&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotJansel&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
