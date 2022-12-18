@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### If you havent heard about me yet, thats no problem!
-#### I am a german dude who likes coding in Java, Kotlin and C#
+#### I am a german dude who likes coding in Java and Kotlin (No C# anymore)
 #### If you like to hear more from me, look at my Socials:
 
 https://youtube.com/NotJansel
