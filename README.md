@@ -5,7 +5,7 @@
 
 https://youtube.com/NotJansel
 
-https://twitter.com/NotJansel
+**MASTODON (TWITTER CRINGE)**: https://blobfox.coffee/@jansel
 
 https://twitch.tv/NotJansel
 
