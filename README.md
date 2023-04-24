@@ -13,5 +13,4 @@ https://twitch.tv/NotJansel
 - [Allium](https://github.com/HyacinthBots/Allium)
 - [Palladium](https://github.com/NotJansel/Palladium)
 
-
-[![why](https://github-readme-stats.vercel.app/api?username=NotJansel&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+General Info: I have 2 GPG Keys, 1 for my main PC, 1 for my surface. I made a second one when I thought I lost my first one when I reinstalled Windows on both devices. Then I noticed I have the backup files on a microSD-card. <em>insert facepalm here</em>
