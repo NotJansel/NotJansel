@@ -13,4 +13,4 @@ https://twitch.tv/NotJansel
 - [Allium](https://github.com/HyacinthBots/Allium)
 - [Palladium](https://github.com/NotJansel/Palladium)
 
-General Info: I have 2 GPG Keys, 1 for my main PC, 1 for my surface. I made a second one when I thought I lost my first one when I reinstalled Windows on both devices. Then I noticed I have the backup files on a microSD-card. <em>insert facepalm here</em>
+General Info: Sone of my older commits may appear as unverified, this is due to the email associated with these commits will cease to exist at the end of august and the signatures for that have been revoked.
