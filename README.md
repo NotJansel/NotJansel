@@ -1,15 +1,6 @@
-### Hi there 👋
-#### If you havent heard about me yet, thats no problem!
-#### I am a german dude who likes coding in Java and Kotlin (No C# anymore)
-#### If you like to hear more from me, look at my Socials:
+<h1>Jansel</h1><p>Developer, Student, Streamer.</p><h2>Socials</h2><ul><li><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://twitch.tv/janselosu">Twitch</a> </p></li><li><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtube.com/@jansel_osu">Youtube</a> </p></li><li><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/notjansel">Github</a> </p></li><li><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://git.jansel.dev">Gitea (selfhosted)</a> </p></li></ul><h2>Contact</h2><p>E-Mail: contact@jansel.dev</p>
 
-https://youtube.com/NotJansel
-
-https://twitter.com/realnotjansel
-
-https://twitch.tv/NotJansel
-
-### Important work I have done
+## Important work I have done
 - [Allium](https://github.com/HyacinthBots/Allium)
 - [Palladium](https://github.com/NotJansel/Palladium)
 
